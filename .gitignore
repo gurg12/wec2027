@@ -1,0 +1,28 @@
+# dependencies
+node_modules/
+*/node_modules/
+
+# env secrets — never commit
+.env
+.env.local
+server/.env
+
+# build output
+client/dist/
+client/build/
+
+# logs
+npm-debug.log*
+*.log
+logs/
+
+# runtime / editor
+.DS_Store
+.vscode/
+.idea/
+*.swp
+.cache/
+coverage/
+
+# pm2 runtime state
+.pm2/
