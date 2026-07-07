@@ -14,7 +14,7 @@ All invented people, systems, companies, treaties, and programs. Every chapter m
 
 *(to be filled as chapters introduce them — every named fictional official gets one line here)*
 
-- **Dana Whitfield** — fictional. b. 1976. Two-term Democratic governor of Michigan, former utility engineer; elected US president Nov 2028 (51.6%, 312 EV) on "the machines pay for the transition" (compute levy → wage insurance + grid; consumer AI labeled; enterprise AI audited). President 2029–2033 (re-elected 2032? decide in Ch. 7–8).
+- **Dana Whitfield** — fictional. b. 1976. Two-term Democratic governor of Michigan, former utility engineer; elected US president Nov 2028 (51.6%, 312 EV) on "the machines pay for the transition" (compute levy → wage insurance + grid; consumer AI labeled; enterprise AI audited). President 2029–2037 (re-elected Nov 2032, 50.9%/289 EV).
 - **Dmitri Kolesnikov** — fictional. b. 1975. Career FSB-adjacent economist; ran Russia's sanctions-adaptation apparatus during the war; First Deputy PM Nov 2029 with regency portfolio (finance, digital infrastructure, internal-troops procurement); becomes caretaker leader on Putin's 2030 exit (Ch. 5).
 - **Annika Brandt** — fictional. German; ECB President from Nov 2027 (on the real incumbent's term expiry). Presides over the Market Continuity Instrument (Jun 2029).
 - **Zhao Minhui** — fictional. b. 1976. Engineer-administrator, ran Guangdong's automation decade; General Secretary from 23rd Party Congress (Oct 2037); Xi retains CMC chair. Collective-leadership-lite restoration; "a stable strait for a stable century."
