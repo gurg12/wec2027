@@ -15,8 +15,14 @@ All invented people, systems, companies, treaties, and programs. Every chapter m
 *(to be filled as chapters introduce them — every named fictional official gets one line here)*
 
 - **Dana Whitfield** — fictional. b. 1976. Two-term Democratic governor of Michigan, former utility engineer; elected US president Nov 2028 (51.6%, 312 EV) on "the machines pay for the transition" (compute levy → wage insurance + grid; consumer AI labeled; enterprise AI audited). President 2029–2033 (re-elected 2032? decide in Ch. 7–8).
-- **(placeholder) Russian caretaker figure post-Putin (~2030)** — security-services background.
-- **(placeholder) French finance minister during 2029 OAT crisis.**
+- **Dmitri Kolesnikov** — fictional. b. 1975. Career FSB-adjacent economist; ran Russia's sanctions-adaptation apparatus during the war; First Deputy PM Nov 2029 with regency portfolio (finance, digital infrastructure, internal-troops procurement); becomes caretaker leader on Putin's 2030 exit (Ch. 5).
+- **Annika Brandt** — fictional. German; ECB President from Nov 2027 (on the real incumbent's term expiry). Presides over the Market Continuity Instrument (Jun 2029).
+- **Consumer AI Standards Act** (US, Mar 2029, 71–28) — labeling, strict consumer liability, age-gating, federal provenance mark; enterprise/infrastructure AI carved out into bank-style audit supervision. THE bifurcation statute.
+- **Market Continuity Instrument (MCI)** — ECB open-ended sovereign purchase facility, announced 19 Jun 2029 in the French OAT crisis; "yield-curve control in a trench coat."
+- **Meridian Bio / MRB-104** — fictional biotech and its idiopathic-pulmonary-fibrosis candidate; first end-to-end AI-authored drug (target, molecule, trial design) to enter Phase III (Oct 2029). Approved 2031 (planned, Ch. 6).
+
+- **Sarah Kwon** — fictional. Former Fed governor; succeeds Warsh as Fed Chair May 2030 ("price stability is a fiscal-monetary joint venture"). The money-string's fiscal-dominance-normalized chair.
+- **Lanyue crewed landing** (Aug 2030) — China's first crewed lunar landing, five months after Artemis III (Mar 2030).
 
 ## Invented events/agreements (running)
 
