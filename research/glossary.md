@@ -14,13 +14,22 @@ All invented people, systems, companies, treaties, and programs. Every chapter m
 
 *(to be filled as chapters introduce them — every named fictional official gets one line here)*
 
-- **(placeholder) US president elected 2028** — named on first appearance in Ch. 3.
+- **Dana Whitfield** — fictional. b. 1976. Two-term Democratic governor of Michigan, former utility engineer; elected US president Nov 2028 (51.6%, 312 EV) on "the machines pay for the transition" (compute levy → wage insurance + grid; consumer AI labeled; enterprise AI audited). President 2029–2033 (re-elected 2032? decide in Ch. 7–8).
 - **(placeholder) Russian caretaker figure post-Putin (~2030)** — security-services background.
 - **(placeholder) French finance minister during 2029 OAT crisis.**
 
+## Invented events/agreements (running)
+
+- **Doha Annex** (Aug 18, 2026) — partial US–Iran deal: enrichment freeze at reactor grade + IAEA re-entry ↔ $18bn frozen-asset tranche + 120-day extension. Doha becomes the decade's default back-channel city.
+- **Ceasefire-in-place, Ukraine** (Nov 11, 2027) — unsigned freeze; European reassurance force west of Dnipro; annually-renewed US intel backstop; no NATO membership, no recognition of annexations. Korea-style permanence by 2035.
+
 ## Invented AI systems, companies, standards
 
-- **"Loom"-class enterprise agents** *(naming TBD in Ch. 2)* — continual-learning enterprise agent tier, 2028.
+- **Cardinal Compute** — invented North American GPU neocloud, #3 by capacity; Chapter 11 in May 2027; assets sold at 55c/$. The reckoning's Lehman-that-wasn't.
+- **GLM-6** (Zhipu, Apr 2027) — open-weight successor to real GLM-5.2; 90% enterprise-task parity at 1/6–1/10 price.
+
+- **Resident agents** (term of art, 2028) — continual-learning enterprise agents with persistent workplace memory; "you don't prompt them, you onboard them." Launched quietly by an unnamed leading US lab, March 2028.
+- **"Customs enhancement exercise"** (Oct 6–14, 2028) — Beijing's nine-day Taiwan quarantine drill; coast guard/customs only; origin of the chip-decentralization mandate ("diversify island throughput by 2032").
 - **CANTOR** *(placeholder name)* — provenance / signed-capture standard, 2034. Verify naming when Ch. 9 written.
 
 ## Invented treaties, laws, programs
