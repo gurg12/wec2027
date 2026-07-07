@@ -1,0 +1,32 @@
+# Preface: How to Read a Net
+
+**Written July 2026. To be graded, not believed.**
+
+Let us begin with the disclaimer that most forecasts bury in a footnote: this is scenario fiction. It was researched and written in July 2026, anchored to the prices, polls, treaties, and troop positions of that single summer, and everything after page one is invention — disciplined invention, invention with its homework attached, but invention. The correct way to read it is the way you would read a weather model's single run: not as what will happen, but as one internally consistent way the pressure systems now visible could resolve. If you are reading this in 2056, you hold a completed answer key. Grade it. That is what it is for.
+
+A word on why anyone should write thirty years of fake news in the first place. The honest answer is that point predictions about single events are nearly worthless at this range, but *structure* is not. You cannot know the name of the president in 2041. You can know, with unsettling confidence, roughly how many Italians will be seventy that year, because they have already been born. You can know that a technology which cuts the cost of something by 90% will be used more, that institutions adapt on decade timescales while markets adapt on quarterly ones, and that the gap between those two speeds is where history happens. A scenario is a machine for keeping those structural claims honest — because unlike a list of trends, a story has to make them all true *at the same time*, in the same world, where they collide.
+
+## The six strings
+
+This document is organized as a net: six long strings, knotted together year by year. When the narrative seems to wander — from a bond auction to a warehouse robot to a fertility statistic — it is walking the knots. The strings, stated plainly so you can score each one separately:
+
+1. **Energy.** Oil's chokepoint decade — the one that closed the Strait of Hormuz this spring — gives way to electricity as the binding global commodity around 2030, and to engineered abundance sometime after 2045. Watch interconnection queues the way your parents watched OPEC.
+2. **Money.** Central bank independence erodes in slow motion; fiscal dominance arrives not with a coup but with a backstop; the world goes nominal-heavy — inflation averaging near 3%, real yields suppressed, hard assets structurally bid — until demographics turn deflationary in the 2040s and the anchor resets.
+3. **AI capability.** It compounds straight through its own hype crashes. The equity narrative will collapse at least once; the usage curve will not even flinch. Robotics runs five to seven years behind cognition, because atoms are harder than tokens.
+4. **AI politics.** Public permission collapses *before* mass displacement — unprecedented in the history of technology, and explicable only because this time the threatened class is the articulate class. The settlement is bifurcation: invisible infrastructure AI, labeled consumer AI. The thaw comes through hospitals, not offices.
+5. **Order.** The United States spends its hegemonic capital quickly; middle powers become load-bearing (a memorandum signed in Islamabad this June was the tell); the destination is a tripolar-plus world by mid-century. Nuclear deterrence holds the ceiling. Conflict runs through chokepoints, sanctions, cyberspace, and other people's infrastructure.
+6. **The real.** Machine traffic passes human traffic on the internet around 2027; synthetic media becomes the majority around 2033; and the settlement is provenance — cryptographic proof of capture, a verified-human premium, an economy of the demonstrably real.
+
+## The apparatus
+
+Because a scenario's greatest danger is its own fluency, the text carries its uncertainty on its sleeve. Major events are tagged inline: **[HIGH]** means I would bet at better than 70% that this *class* of event occurs roughly on schedule; **[MED]** is 40–70%; **[LOW]** is 15–40%; **[WILD]** is under 15%, included because the consequences are too large to omit. The tags apply to event-classes and rough timing, never to the invented particulars — the names, the weather, the dialogue — which are set dressing and carry no probability at all.
+
+Twice, at the forks I consider genuinely live, the narrative stops and shows the other road in a box, with my probability split stated. Every fifth year ends with a "State of the Net": a cold table of numbers — oil, gold, real yields, compute, fertility, warming — so that drift in any one string is visible against the others. Two appendices complete the apparatus: a scorecard listing every tagged claim in one table, and a pre-registered list of the five most likely ways this document fails.
+
+One standing admission governs everything: **timing decays faster than direction.** The base rates are brutal. Electrification took forty years to show up in productivity statistics; forecasters of the 1890s got the direction of the electric century broadly right and the decade of almost everything wrong. I expect the same asymmetry here. When this book errs — and it will — expect the arrows to be roughly right and the calendar to be wrong, usually slow in the near years and fast in the far ones, because the imagination runs ahead of institutions at short range and behind compounding at long range.
+
+A last note on method. The future in these pages contains no rapture and no extinction. That is not timidity; it is a base-rate judgment that the modal path of large systems is muddling — regional catastrophes, late miracles, paperwork. If that judgment is wrong, it is the single most important error in the book, and Appendix B says so. What the median path *does* contain is thirty years of institutions arriving late to facts, which I believe is the true engine of the era we are entering: an interregnum, in Gramsci's tired but unavoidable phrase, in which the old world is dying and the new world struggles to be born. The morbid symptoms have datelines.
+
+The people in this book — a student in Saskatoon, a tanker driver's son in Lagos, an analyst in Madrid, an engineer in Taichung, a farmer in Chiang Rai — are inventions. The world that happens to them is a forecast. I have tried never to confuse the two.
+
+*— The author, July 2026*
