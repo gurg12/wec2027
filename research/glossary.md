@@ -36,13 +36,19 @@ All invented people, systems, companies, treaties, and programs. Every chapter m
 
 - **Resident agents** (term of art, 2028) — continual-learning enterprise agents with persistent workplace memory; "you don't prompt them, you onboard them." Launched quietly by an unnamed leading US lab, March 2028.
 - **"Customs enhancement exercise"** (Oct 6–14, 2028) — Beijing's nine-day Taiwan quarantine drill; coast guard/customs only; origin of the chip-decentralization mandate ("diversify island throughput by 2032").
-- **CANTOR** *(placeholder name)* — provenance / signed-capture standard, 2034. Verify naming when Ch. 9 written.
+- **VERA (Verified Capture and Attribution)** — signed-at-sensor provenance standard; compliance plumbing from 2028–29, flipped to platform default Sep 2034 (HTTPS-style liability flip). Unsigned media demotes; "verified-human tiers" (attested-unassisted work) born 2034.
+- **HELIX-4** — autonomous hypothesis-generation discovery system; first AI co-credited on a major science prize (Breakthrough Prize in Life Sciences, Oct 2033). Nobel committees reaffirm persons-only.
+- **International Computation Agency (ICA)** — inspectorate of the Geneva Accords on Advanced Computation (GAAC, signed Nov 2035): cluster registration above training threshold, on-die attestation telemetry, physical audit rights. "Verification via hardware, not trust."
 
 ## Invented treaties, laws, programs
 
 - **The Islamabad Memorandum** (June 17, 2026) — REAL-WORLD ANCHOR per prompt canon; treat as real.
-- **(placeholder) US wage-insurance act, 2032** — working title "American Work Transition Act (AWTA)".
-- **(placeholder) The Compute Accords, 2035** — inspection regime for frontier training clusters; working name "Geneva Compute Accords".
+- **American Work Transition Act (AWTA)** (Mar 2032) — wage insurance (50% of wage gap, ≤3 yrs) + portable retraining accounts + apprenticeship ratios for >5,000-employee firms; funded by statutory 2.2% compute levy. EU twin: **Transition Insurance Directive** (Oct 2032).
+- **Geneva Accords on Advanced Computation (GAAC)** (Nov 2035) — see ICA above.
+- **June Event / "Brazil's Eleven Days"** (Jun 2034) — AI-enabled cyber disruption of southern Brazil's grid + payment rail; 11 days, $310bn, attribution never public. The Chernobyl of AI governance.
+
+## Minor recurring / one-off named characters
+- **Sister Bimpe** — Lagos clinic nurse (Ch. 6). **Reem al-Otaibi** — Riyadh compute-campus load forecaster (Ch. 7). **Wang Jun / Yiran** — Hefei robotics plant manager and his daughter (rehab medicine) (Ch. 8). **Luana Cardoso** — São Paulo ICU nurse, June Event vignette (Ch. 9). **Oksana Melnyk** — Kharkiv crane operator, ex-teacher (Ch. 10). **Sr. Ibarra** — Santa Lucía resident, b. ~1938; buys gold 2029; will witnessed Dec 2032 (Ch. 4, 7). Died ~2033–35 (unstated).
 
 ## Naming discipline
 
